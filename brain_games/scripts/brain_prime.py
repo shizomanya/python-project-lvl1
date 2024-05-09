@@ -2,7 +2,6 @@
 import prompt
 import random
 
-
 def is_prime(num):
     if num < 2:
         return False
@@ -10,7 +9,6 @@ def is_prime(num):
         if num % i == 0:
             return False
     return True
-
 
 def main():
     print('brain-prime')
@@ -31,6 +29,7 @@ def main():
             return
         print('Correct!')
 
+    print(f'Congratulations, {name}!')
 
 if __name__ == '__main__':
     main()
