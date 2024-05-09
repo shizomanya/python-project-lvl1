@@ -6,11 +6,11 @@
 A Brain Games is a collection of five simple console games. Each game asks questions that must be answered correctly. After three correct answers, the game is considered completed. Wrong answers end the game and prompt you to play it again.
 
 ### Games:
-- Brain-Even: Parity check.
-- Brain-Calc: Arithmetic calculations.
-- Brain-Gcd: Calculating the greatest common factor.
-- Brain-Progression: Searching for missing numbers in the arithmetic progression of numbers.
-- Brain-Prime: Definition of a prime number.
+Brain-Even: Parity check.
+Brain-Calc: Arithmetic calculations.
+Brain-Gcd: Calculating the greatest common factor.
+Brain-Progression: Searching for missing numbers in the arithmetic progression of numbers.
+Brain-Prime: Definition of a prime number.
 
 ### Askinema games:
 - brain-even: 'Answer "yes" if the number is even, otherwise answer "no".'
