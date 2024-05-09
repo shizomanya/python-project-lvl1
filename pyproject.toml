@@ -3,7 +3,6 @@ name = "hexlet-code"
 version = "0.1.0"
 description = "A short description of the package."
 authors = ["shizomanya <mistic_aa@inbox.ru>"]
-repository = "https://github.com/shizomanya/python-project-49.git"
 classifiers = [
     "Topic :: Software Development :: Build Tools",
     "Topic :: Software Development :: Libraries :: Python Modules"
