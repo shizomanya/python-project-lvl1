@@ -1,5 +1,7 @@
-from random import randint
+#!/usr/bin/env python3
 import prompt
+import random
+
 
 def is_prime(num):
     if num < 2:
@@ -9,32 +11,26 @@ def is_prime(num):
             return False
     return True
 
-def brain_prime():
+
+def main():
+    print('brain-prime')
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
     print('Answer "yes" if given number is prime. Otherwise answer "no".')
-    
-    correct_answers = 0
-    while correct_answers < 3:
-        number = randint(1, 100)
-        print(f"Question: {number}")
+
+    for _ in range(3):
+        num = random.randint(2, 100)
+        correct_answer = "yes" if is_prime(num) else "no"
+        print('Question: {}'.format(num))
         user_answer = prompt.string("Your answer: ")
-        
-        if (is_prime(number) and user_answer == "yes") or (not is_prime(number) and user_answer == "no"):
-            print("Correct!")
-            correct_answers += 1
-        else:
-            if is_prime(number):
-                correct_answer = "yes"
-            else:
-                correct_answer = "no"
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
-            print(f"Let's try again, {name}!")
-            break
-    
-    if correct_answers == 3:
-        print(f"Congratulations, {name}!")
+
+        if user_answer != correct_answer:
+            print("'{}' is wrong answer ;(. Correct answer was '{}'.".format(user_answer, correct_answer))
+            print("Let's try again, {}!".format(name))
+            return
+        print('Correct!')
+
 
 if __name__ == '__main__':
-    brain_prime()
+    main()
