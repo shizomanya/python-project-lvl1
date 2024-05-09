@@ -15,20 +15,21 @@ Brain-Prime: Definition of a prime number.
 ### Askinema games:
 - brain-even: 'Answer "yes" if the number is even, otherwise answer "no".'
 
-[![asciicast]()]
+
+[![asciicast]()
 
 - brain-calc: 'What is the result of the expression?'
 
-[![asciicast]()]
+[![asciicast]()
 
 - brain-gcd: 'Find the greatest common divisor of given numbers.'
 
-[![asciicast]()]
+[![asciicast]()
 
 - brain-progression: 'What number is missing in the progression?'
 
-[![asciicast]()]
+[![asciicast]()
 
 - brain-prime: 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
-[![asciicast]()]
+[![asciicast]()
