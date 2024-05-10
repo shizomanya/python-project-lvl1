@@ -24,12 +24,12 @@ A Brain Games is a collection of five simple console games. Each game asks quest
 
 - brain-gcd: 'Find the greatest common divisor of given numbers.'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/eg15BRBnaQqmpyp7v0t3NGtxC.svg)](https://asciinema.org/a/eg15BRBnaQqmpyp7v0t3NGtxC)
 
 - brain-progression: 'What number is missing in the progression?'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/308i1NcmMmSZC0funt3cEG7GY.svg)](https://asciinema.org/a/308i1NcmMmSZC0funt3cEG7GY)
 
 - brain-prime: 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/DK77efalNTl9euaeJBfk6erWw.svg)](https://asciinema.org/a/DK77efalNTl9euaeJBfk6erWw)
