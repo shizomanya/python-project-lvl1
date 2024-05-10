@@ -12,11 +12,11 @@ A Brain Games is a collection of five simple console games. Each game asks quest
 - Brain-Progression: Searching for missing numbers in the arithmetic progression of numbers.
 - Brain-Prime: Definition of a prime number.
 
-### Askinema games:
+### Ascinema games:
 - brain-even: 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/Jhkrpypvnd8AyVwtUU4PnlghO.svg)](https://asciinema.org/a/Jhkrpypvnd8AyVwtUU4PnlghO)
 
 - brain-calc: 'What is the result of the expression?'
 
