@@ -20,7 +20,7 @@ A Brain Games is a collection of five simple console games. Each game asks quest
 
 - brain-calc: 'What is the result of the expression?'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/nDYG4UFN15KXCGalqbZhsgYsA.svg)](https://asciinema.org/a/nDYG4UFN15KXCGalqbZhsgYsA)
 
 - brain-gcd: 'Find the greatest common divisor of given numbers.'
 
