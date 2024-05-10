@@ -1,37 +1,11 @@
 #!/usr/bin/env python3
-import random
-import prompt
-
-
-def is_even(number):
-    return number % 2 == 0
-
-
-def get_question():
-    number = random.randint(1, 100)
-    return number, 'yes' if is_even(number) else 'no'
+from brain_games.games import game_even
+from brain_games.welcome import welcome
 
 
 def main():
-    print('brain-even')
-    print('Welcome to the Brain Games!')
-    name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!')
-    print('Answer "yes" if the number is even, otherwise answer "no".')
-
-    for _ in range(3):
-        number, correct_answer = get_question()
-        print('Question: {}'.format(number))
-        user_answer = prompt.string("Your answer: ")
-
-        if user_answer != correct_answer:
-            print("'{}' is wrong answer ;(. Correct answer was '{}'.".format(user_answer, correct_answer))
-            print("Let's try again, {}!".format(name))
-            return
-        print('Correct!')
-
-    print(f"Congratulations, {name}!")
+    welcome(game_even)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

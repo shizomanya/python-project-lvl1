@@ -1,13 +1,10 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "A short description of the package."
+description = ""
 authors = ["shizomanya <mistic_aa@inbox.ru>"]
-classifiers = [
-    "Topic :: Software Development :: Build Tools",
-    "Topic :: Software Development :: Libraries :: Python Modules"
-]
-packages = [{ include = "brain_games" }]
+readme = "README.md"
+packages = [{include = "brain_games"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
