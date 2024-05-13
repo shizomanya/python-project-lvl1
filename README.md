@@ -14,7 +14,9 @@ A Brain Games is a collection of five simple console games. Each game asks quest
 
 
 ### Installation Instruction:
+```
 $ git clone https://github.com/shizomanya/python-project-49.git
+```
 ```python
 install: poetry install
 
