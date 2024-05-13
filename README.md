@@ -12,6 +12,7 @@ A Brain Games is a collection of five simple console games. Each game asks quest
 - Brain-Progression: Searching for missing numbers in the arithmetic progression of numbers.
 - Brain-Prime: Definition of a prime number.
 
+<<<<<<< HEAD
 ### Installation Instruction:
 $ git clone https://github.com/shizomanya/python-project-49.git
 ```python
@@ -22,23 +23,26 @@ build: poetry build
 package-install: python3 -m pip install --user --force dist/*.whl
 ```
 ### Askinema games:
+=======
+### Ascinema games:
+>>>>>>> bef95a82cb0214b40f7e07c4c5982b3979e7e87a
 - brain-even: 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/Jhkrpypvnd8AyVwtUU4PnlghO.svg)](https://asciinema.org/a/Jhkrpypvnd8AyVwtUU4PnlghO)
 
 - brain-calc: 'What is the result of the expression?'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/nDYG4UFN15KXCGalqbZhsgYsA.svg)](https://asciinema.org/a/nDYG4UFN15KXCGalqbZhsgYsA)
 
 - brain-gcd: 'Find the greatest common divisor of given numbers.'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/eg15BRBnaQqmpyp7v0t3NGtxC.svg)](https://asciinema.org/a/eg15BRBnaQqmpyp7v0t3NGtxC)
 
 - brain-progression: 'What number is missing in the progression?'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/308i1NcmMmSZC0funt3cEG7GY.svg)](https://asciinema.org/a/308i1NcmMmSZC0funt3cEG7GY)
 
 - brain-prime: 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
-[![asciicast]()]
+[![asciicast](https://asciinema.org/a/DK77efalNTl9euaeJBfk6erWw.svg)](https://asciinema.org/a/DK77efalNTl9euaeJBfk6erWw)
