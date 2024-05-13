@@ -1,5 +1,7 @@
 import prompt
 
+GAMES_COUNT = 3
+
 
 def welcome(game):
     print('Welcome to the Brain Games!')
@@ -7,7 +9,7 @@ def welcome(game):
     print(f'Hello, {name}!')
     print(game.CONDITIONS)
 
-    for _ in range(3):
+    for _ in range(GAMES_COUNT):
         question, correct_answer = game.get_game()
         print(f"Question: {question}")
         user_answer = prompt.string("Your answer: ")

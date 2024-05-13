@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import random
 
 CONDITIONS = 'Answer "yes" if given number is prime. Otherwise answer "no".'

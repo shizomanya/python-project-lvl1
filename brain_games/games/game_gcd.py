@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import random
 
 CONDITIONS = 'Find the greatest common divisor of given numbers.'

@@ -12,6 +12,15 @@ A Brain Games is a collection of five simple console games. Each game asks quest
 - Brain-Progression: Searching for missing numbers in the arithmetic progression of numbers.
 - Brain-Prime: Definition of a prime number.
 
+### Installation Instruction:
+$ git clone https://github.com/shizomanya/python-project-49.git
+```python
+install: poetry install
+
+build: poetry build
+
+package-install: python3 -m pip install --user --force dist/*.whl
+```
 ### Askinema games:
 - brain-even: 'Answer "yes" if the number is even, otherwise answer "no".'
 

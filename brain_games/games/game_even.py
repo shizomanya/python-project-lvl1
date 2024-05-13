@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import random
 
 CONDITIONS = 'Answer "yes" if the number is even, otherwise answer "no".'
