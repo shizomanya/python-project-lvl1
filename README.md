@@ -23,6 +23,8 @@ install: poetry install
 build: poetry build
 
 package-install: python3 -m pip install --user --force dist/*.whl
+
+lint: poetry run flake8
 ```
 ### Ascinema games:
 - brain-even: 'Answer "yes" if the number is even, otherwise answer "no".'
