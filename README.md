@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn2.hexlet.io/assets/hexlet_projects_main-0eb359d20c18e3b160cf7d960b4e5064d93595f3d1ab4d85e1899a8621dfdb27.png" alt="logo" width="270" height="auto" />
+<img src="https://static.tildacdn.com/tild3139-6463-4362-a466-643665346661/brain.png" alt="logo" width="270" height="auto" />
 <h1>Mind Games</h1>
 
 <p>
