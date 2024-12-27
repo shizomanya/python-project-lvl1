@@ -124,7 +124,6 @@ Your answer: yes
 Correct!
 ```
 
-[![asciicast](https://asciinema.org/a/Jhkrpypvnd8AyVwtUU4PnlghO.svg)](https://asciinema.org/a/Jhkrpypvnd8AyVwtUU4PnlghO)
 
 ### Brain Calc 
 'What is the result of the expression?'
@@ -146,7 +145,6 @@ Question: 5 * 15
 Your answer: 75
 Correct!
 ```
-[![asciicast](https://asciinema.org/a/nDYG4UFN15KXCGalqbZhsgYsA.svg)](https://asciinema.org/a/nDYG4UFN15KXCGalqbZhsgYsA)
 
 ### Brain GCD 
 'Find the greatest common divisor of given numbers.'
@@ -169,7 +167,6 @@ Your answer: 21
 Correct!
 ```
 
-[![asciicast](https://asciinema.org/a/eg15BRBnaQqmpyp7v0t3NGtxC.svg)](https://asciinema.org/a/eg15BRBnaQqmpyp7v0t3NGtxC)
 
 ### Brain Progression:
 - 'What number is missing in the progression?'
@@ -193,7 +190,6 @@ Correct!
 Congratulations, Ann!
 ```
 
-[![asciicast](https://asciinema.org/a/308i1NcmMmSZC0funt3cEG7GY.svg)](https://asciinema.org/a/308i1NcmMmSZC0funt3cEG7GY)
 
 ### Brain Prime
 'Answer "yes" if given number is prime. Otherwise answer "no".'
@@ -216,4 +212,3 @@ Your answer: no
 Correct!
 ```
 
-[![asciicast](https://asciinema.org/a/DK77efalNTl9euaeJBfk6erWw.svg)](https://asciinema.org/a/DK77efalNTl9euaeJBfk6erWw)
